@@ -7,4 +7,8 @@
     <groupId>ec.edu.ups</groupId>
     <artifactId>vcs</artifactId>
     <version>1.0.0</version>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
 </project>
